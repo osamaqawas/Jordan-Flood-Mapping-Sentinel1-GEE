@@ -99,12 +99,5 @@ Remote Sensing & GeoAI Researcher
 
 ---
 
-## 📌 Citation
-If you use this work in research or teaching, please cite:
-
-> Al-Qawasmeh, O. (2025). *Jordan National Flood Mapper using Sentinel-1 SAR and Google Earth Engine*.
-
----
-
 ## 📜 License
 This project is licensed under the **MIT License** – free to use for academic and educational purposes.
